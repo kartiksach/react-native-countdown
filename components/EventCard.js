@@ -51,7 +51,7 @@ const styles = StyleSheet.create({
       flex: 1,
     },
     counterText: {
-      fontSize: 40,
+      fontSize: 20,
       textAlign: 'center',
     },
     counterLabel: {
